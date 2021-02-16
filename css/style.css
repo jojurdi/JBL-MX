@@ -2333,3 +2333,138 @@ table .blue-normal{
 }
 
 /* //responsive */
+
+/* policy styles  */
+.policy-content{
+    float: right;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    color: #FFF;
+}
+.policy-details-lnk{
+    color: #11FDFF;
+    text-decoration: underline;
+}
+.policy-details-lnk:hover{
+    color: #11FDFF;
+    text-decoration: none;
+}
+
+.agree-policy{
+    display: flex;
+    position: relative;
+    padding-left: 35px;
+    cursor: pointer;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.agree-policy-text{
+    font-family: 'Open Sans';
+    font-size: 16px;
+    color: #FFF;
+    margin-top: 0px;
+}
+  
+/* Hide the browser's default checkbox */
+.agree-policy input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+  
+  /* Create a custom checkbox */
+.agree-checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    border: 2px solid #11FDFF;
+    border-radius: 5px;
+}
+.agree-policy input:checked ~ .agree-checkmark {
+    background-color: #11FDFF;
+}
+.agree-checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+  
+/* Show the checkmark when checked */
+.agree-policy input:checked ~ .agree-checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.agree-policy .agree-checkmark:after {
+    left: 7px;
+    top: 1px;
+    width: 8px;
+    height: 15px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.banner-policy{
+    height: 380px;
+}
+
+.btn-jbl-primary{
+    background: #11FDFF;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 80px;
+    font-family: 'DINPro';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    color: #000000;
+    padding: 10px 25px;
+}
+.gradient-policy{
+    max-width: 680px;
+    color: white;
+    margin: -65px  auto 0 auto;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 128.18%;
+    text-align: center;
+    background: -webkit-linear-gradient(#fff 0%,#9df8f9 50%, #11FDFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.content-policy{
+    color: white;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+}
+.content-policy p,
+.content-policy h5{
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 14px;
+}
+.content-policy ul{
+    list-style: none;
+}
+@media(max-width: 640px) {
+    .gradient-policy{
+        margin: 30px  auto 0 auto;
+    }
+}
+/* END policy styles  */
