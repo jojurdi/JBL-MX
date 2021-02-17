@@ -974,8 +974,8 @@
                                     <div class="form-check policy-content mt-3">
                                      
                                         <label class="agree-policy">
-                                            <span class="agree-policy-text">Acepto la <a class="policy-details-lnk" href="/privacy-policy.html">política de privacidad</a></span>
-                                            <input type="checkbox">
+                                            <span class="agree-policy-text">Acepto la <a class="policy-details-lnk" target="_blank" href="./privacy-policy.html" >política de privacidad</a></span>
+                                            <input type="checkbox" required>
                                             <span class="agree-checkmark"></span>
                                         </label>
                                     </div>
@@ -1007,7 +1007,7 @@
             <footer class="footer-emp-w3ls">
                 <div class="copy-right-top ">
                     <p class="copy-right text-center text-white py-4">
-                        © 2020 HARMAN International Industries, Incorporated. <br />Todos los derechos reservados.
+                        © <?= date('Y') ?> HARMAN International Industries, Incorporated. <br />Todos los derechos reservados.
                     </p>
                 </div>
             </footer>
