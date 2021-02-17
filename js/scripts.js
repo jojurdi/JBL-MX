@@ -211,6 +211,7 @@ $(function () {
             crossDomain: true,
             data: {
                 'code': 'LQ1cwgiTyiSktfcFJEvQJ0tGQd8H1rf6',
+                'privacy': 'Acepto la política de privacidad',
                 'email': $('input[name="email"]').val(),
                 'url_utms' :window.location.href,
                 'source': $_GET['utm_source']?$_GET['utm_source']:'',
