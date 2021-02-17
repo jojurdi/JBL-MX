@@ -2467,4 +2467,12 @@ table .blue-normal{
         margin: 30px  auto 0 auto;
     }
 }
+.menu-policy{
+    position: absolute;
+    top: 40px;
+    right: 45px;
+}
+.header-policy{
+    margin-top: 7rem;
+}
 /* END policy styles  */
