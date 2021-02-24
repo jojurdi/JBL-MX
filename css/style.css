@@ -1095,6 +1095,23 @@ a.move-top span{
     color: #FFFFFF;
 
 }
+.btn-compra-full{
+    max-width: 100%;
+    background: rgba(0, 0, 0, 0.25);
+    border: 2px solid #11FDFF;
+    box-sizing: border-box;
+    border-radius: 80px;
+    font-family: 'DINPro';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #11FDFF;
+    padding: 10px 25px;
+    width: 100%;
+    display: block;
+}
 .btn-compra{
     max-width: 213px;
     background: rgba(0, 0, 0, 0.25);
@@ -1159,6 +1176,9 @@ a.move-top span{
     display: none;
     margin: 4em auto;
 
+}
+.quare_buy .btn-compra-full{
+    margin-top: 15px; 
 }
 .quare_buy .btn-compra, .quare_buy .btn-pink-full{
     margin-top: 15px;
@@ -1402,7 +1422,7 @@ table .blue-normal{
     .rectangle-black { 
         max-width: 100%;
     }
-    .btn-compra, .btn-compara , .btn-pink-ful { 
+    .btn-compra, .btn-compra-full, .btn-compara , .btn-pink-ful { 
         max-width: 100%;
         font-size: 17px;
         line-height: 24px;
@@ -1473,7 +1493,7 @@ table .blue-normal{
 }
 
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) and (max-width: 1440px) {
-    .btn-compra, .btn-compara, .btn-pink-full{
+    .btn-compra, .btn-compra-full, .btn-compara, .btn-pink-full{
         width: 182px;
     }
     .quare_buy .btn-pink-full {
@@ -1760,7 +1780,7 @@ table .blue-normal{
     .services .inner-sec-layer {
         padding: 10px;
     }
-    .btn-compra, .btn-compara, .btn-pink-full  {
+    .btn-compra, .btn-compra-full, .btn-compara, .btn-pink-full  {
         max-width: 100%;
         font-size: 16px;
         line-height: 23px;
@@ -1923,7 +1943,7 @@ table .blue-normal{
     #modelos{
         padding-top: 3em;
     }
-    .btn-compra , .btn-compara, .btn-pink-full{
+    .btn-compra, .btn-compra-full, .btn-compara, .btn-pink-full{
         width: 100%;
         max-width: 200px;
         margin: 15px auto 0;

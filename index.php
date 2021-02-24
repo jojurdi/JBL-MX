@@ -328,18 +328,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
+                                                           class="btn-compra-full btn-go">
+                                                            SEARS
                                                         </a>
                                                     </div>
                                                 </div>
@@ -423,18 +430,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                  <div class="col-md-6">
+                                                  <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
+                                                           class="btn-compra-full btn-go">
+                                                            SEARS
                                                         </a>
                                                     </div>
                                                 </div>
@@ -526,18 +540,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
+                                                           class="btn-compra-full btn-go">
+                                                            SEARS
                                                         </a>
                                                     </div>
                                                 </div>
@@ -625,18 +646,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                   <div class="col-md-6">
+                                                   <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
+                                                           class="btn-compra-full btn-go">
+                                                            SEARS
                                                         </a>
                                                     </div>
                                                 </div>
@@ -717,18 +745,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                   <div class="col-md-6">
+                                                   <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
+                                                           class="btn-compra-full btn-go">
+                                                            SEARS
                                                         </a>
                                                     </div>
                                                 </div>
@@ -814,18 +849,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                   <div class="col-md-6">
+                                                   <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
+                                                           class="btn-compra-full btn-go">
+                                                            SEARS
                                                         </a>
                                                     </div>
                                                 </div>
@@ -901,18 +943,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-12">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
-                                                           class="btn-compra btn-go">
+                                                           class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
+                                                           class="btn-compra-full btn-go">
+                                                            SEARS
                                                         </a>
                                                     </div>
                                                 </div>
