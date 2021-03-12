@@ -1,93 +1,93 @@
 <!DOCTYPE html>
 <html lang="ES">
 
-    <head>
-        <title>JBL Quantum</title>
-        <!-- Meta tag Keywords -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta charset="UTF-8" />
-        <meta name="keywords" content="JBL Quantum" />
-        <script>
-            addEventListener("load", function () {
-                setTimeout(hideURLbar, 0);
-            }, false);
+  <head>
+    <title>JBL Quantum</title>
+    <!-- Meta tag Keywords -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <meta name="keywords" content="JBL Quantum" />
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
 
-            function hideURLbar() {
-                window.scrollTo(0, 1);
-            }
-        </script>
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
 
-        <link rel="icon" type="image/png" sizes="32x32" href="images/jbl_logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/jbl_logo.png">
 
-        <!-- //Meta tag Keywords -->
+    <!-- //Meta tag Keywords -->
 
-        <!-- Custom-Files -->
-        <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" href="css/bootstrap.css">
-        <!-- Bootstrap-Core-CSS -->
-        <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" href="css/font-awesome.min.css">
-        <!-- Font-Awesome-Icons-CSS -->
+    <!-- Custom-Files -->
+    <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" href="css/bootstrap.css">
+    <!-- Bootstrap-Core-CSS -->
+    <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- Font-Awesome-Icons-CSS -->
 
-        <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" type="text/css"
-              href="vendor/slick/slick.css" /> <!-- Slick-CSS -->
-        <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" type="text/css"
-              href="vendor/slick/slick-theme.css" /> <!-- Slick-CSS -->
-        <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" type="text/css"
-              href="vendor/popup/magnific-popup.css" />
-        <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" href="css/style.css" type="text/css"
+    <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" type="text/css"
+          href="vendor/slick/slick.css" /> <!-- Slick-CSS -->
+    <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" type="text/css"
+          href="vendor/slick/slick-theme.css" /> <!-- Slick-CSS -->
+    <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" type="text/css"
+          href="vendor/popup/magnific-popup.css" />
+    <link rel=preload as="style" onload="this.rel = 'stylesheet'" rel="stylesheet" href="css/style.css" type="text/css"
               media="all" /><!-- Style-CSS -->
 
-        <!-- //Custom-Files -->
+      <!-- //Custom-Files -->
 
-        <!-- Global site tag (gtag.js) - Google Ads: 620551787 -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-620551787"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
+      <!-- Global site tag (gtag.js) - Google Ads: 620551787 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-620551787"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-            gtag('config', 'AW-620551787');
-        </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-FPZX53NJW4"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
+        gtag('config', 'AW-620551787');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FPZX53NJW4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-            gtag('config', 'G-FPZX53NJW4');
-        </script>
-        <!-- Facebook Pixel Code -->
-        <script>
-            !function (f, b, e, v, n, t, s) {
-                if (f.fbq)
-                    return;
-                n = f.fbq = function () {
-                    n.callMethod ?
-                            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-                };
-                if (!f._fbq)
-                    f._fbq = n;
-                n.push = n;
-                n.loaded = !0;
-                n.version = '2.0';
-                n.queue = [];
-                t = b.createElement(e);
-                t.async = !0;
-                t.src = v;
-                s = b.getElementsByTagName(e)[0];
-                s.parentNode.insertBefore(t, s)
-            }(window, document, 'script',
-                    'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '2847597398793416');
-            fbq('track', 'PageView');
-            fbq('trackCustom', 'ViewJBL');
-        </script>
-        <!-- End Facebook Pixel Code -->
-    </head>
+        gtag('config', 'G-FPZX53NJW4');
+    </script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq)
+                return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq)
+                f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '2847597398793416');
+        fbq('track', 'PageView');
+        fbq('trackCustom', 'ViewJBL');
+    </script>
+      <!-- End Facebook Pixel Code -->
+  </head>
 
     <body>
         <noscript><img height="1" width="1" style="display:none"
@@ -340,6 +340,13 @@
                                                             SEARS
                                                         </a>
                                                     </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
+                                                           class="btn-compra-full btn-go">
+                                                            OFFICE DEPOT
+                                                        </a>
+                                                    </div>
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-md-12">
@@ -440,6 +447,13 @@
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
+                                                           class="btn-compra-full btn-go">
+                                                            OFFICE DEPOT
                                                         </a>
                                                     </div>
                                                 </div>
@@ -552,6 +566,13 @@
                                                             SEARS
                                                         </a>
                                                     </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
+                                                           class="btn-compra-full btn-go">
+                                                            OFFICE DEPOT
+                                                        </a>
+                                                    </div>
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-md-12">
@@ -658,6 +679,13 @@
                                                             SEARS
                                                         </a>
                                                     </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
+                                                           class="btn-compra-full btn-go">
+                                                            OFFICE DEPOT
+                                                        </a>
+                                                    </div>
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-md-12">
@@ -755,6 +783,13 @@
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
+                                                           class="btn-compra-full btn-go">
+                                                            OFFICE DEPOT
                                                         </a>
                                                     </div>
                                                 </div>
@@ -861,6 +896,13 @@
                                                             SEARS
                                                         </a>
                                                     </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
+                                                           class="btn-compra-full btn-go">
+                                                            OFFICE DEPOT
+                                                        </a>
+                                                    </div>
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-md-12">
@@ -953,6 +995,13 @@
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-12">
+                                                        <a target="_blank"
+                                                           href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
+                                                           class="btn-compra-full btn-go">
+                                                            OFFICE DEPOT
                                                         </a>
                                                     </div>
                                                 </div>
