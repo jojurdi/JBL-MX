@@ -319,32 +319,39 @@
                                                         </div> 
                                                     </div-->
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
                                                            class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
                                                            class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
                                                            class="btn-compra-full btn-go">
                                                             OFFICE DEPOT
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <a target="_blank"
+                                                           href="https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=jbl+diadema&minPrice=&urlLangId=-4&categoryId=13067&storeId=12761"
+                                                           class="btn-compra-full btn-go">
+                                                            COPPEL
                                                         </a>
                                                     </div>
                                                 </div>
@@ -428,32 +435,39 @@
                                             </div>
                                             <div class="quare_buy" data-model="JBL_800">
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
                                                            class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
                                                            class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
                                                            class="btn-compra-full btn-go">
                                                             OFFICE DEPOT
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <a target="_blank"
+                                                           href="https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=jbl+diadema&minPrice=&urlLangId=-4&categoryId=13067&storeId=12761"
+                                                           class="btn-compra-full btn-go">
+                                                            COPPEL
                                                         </a>
                                                     </div>
                                                 </div>
@@ -545,32 +559,39 @@
                                             </div>
                                             <div class="quare_buy" data-model="JBL_600">
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
                                                            class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
                                                            class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
                                                            class="btn-compra-full btn-go">
                                                             OFFICE DEPOT
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <a target="_blank"
+                                                           href="https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=jbl+diadema&minPrice=&urlLangId=-4&categoryId=13067&storeId=12761"
+                                                           class="btn-compra-full btn-go">
+                                                            COPPEL
                                                         </a>
                                                     </div>
                                                 </div>
@@ -658,32 +679,39 @@
                                             </div>
                                             <div class="quare_buy" data-model="JBL_400">
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
                                                            class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
                                                            class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
                                                            class="btn-compra-full btn-go">
                                                             OFFICE DEPOT
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <a target="_blank"
+                                                           href="https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=jbl+diadema&minPrice=&urlLangId=-4&categoryId=13067&storeId=12761"
+                                                           class="btn-compra-full btn-go">
+                                                            COPPEL
                                                         </a>
                                                     </div>
                                                 </div>
@@ -764,32 +792,39 @@
                                             </div>
                                             <div class="quare_buy" data-model="JBL_300">
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
                                                            class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
                                                            class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
                                                            class="btn-compra-full btn-go">
                                                             OFFICE DEPOT
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <a target="_blank"
+                                                           href="https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=jbl+diadema&minPrice=&urlLangId=-4&categoryId=13067&storeId=12761"
+                                                           class="btn-compra-full btn-go">
+                                                            COPPEL
                                                         </a>
                                                     </div>
                                                 </div>
@@ -875,32 +910,39 @@
                                             </div>
                                             <div class="quare_buy" data-model="JBL_200">
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
                                                            class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
                                                            class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
                                                            class="btn-compra-full btn-go">
                                                             OFFICE DEPOT
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <a target="_blank"
+                                                           href="https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=jbl+diadema&minPrice=&urlLangId=-4&categoryId=13067&storeId=12761"
+                                                           class="btn-compra-full btn-go">
+                                                            COPPEL
                                                         </a>
                                                     </div>
                                                 </div>
@@ -976,32 +1018,39 @@
                                             </div>
                                             <div class="quare_buy" data-model="JBL_100">
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.elpalaciodehierro.com/buscar?q=quantum%20jbl"
                                                            class="btn-compra-full btn-go">
                                                             EL PALACIO DE HIERRO
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sanborns.com.mx/resultados/q=Quantum%20Gaming/marca=JBL/1"
                                                            class="btn-compra-full btn-go">
                                                             SANBORNS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.sears.com.mx/resultados/q=Quantum%20jbl/marca=JBL/categoria=15548/1"
                                                            class="btn-compra-full btn-go">
                                                             SEARS
                                                         </a>
                                                     </div>
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-6">
                                                         <a target="_blank"
                                                            href="https://www.officedepot.com.mx/officedepot/en/search/?q=quantum%3Arelevance%3Abrand%3AJBL&id_check=JBL&text=quantum#"
                                                            class="btn-compra-full btn-go">
                                                             OFFICE DEPOT
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <a target="_blank"
+                                                           href="https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=jbl+diadema&minPrice=&urlLangId=-4&categoryId=13067&storeId=12761"
+                                                           class="btn-compra-full btn-go">
+                                                            COPPEL
                                                         </a>
                                                     </div>
                                                 </div>
